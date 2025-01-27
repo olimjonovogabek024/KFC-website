@@ -207,8 +207,6 @@
     font-weight: 400;
     display: -webkit-box;
     overflow: hidden;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
 }
 .card-footer{
     padding-top: 15px;
